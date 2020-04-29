@@ -1,4 +1,4 @@
 function start() {
-    alert("A inceput jocu");
+   open(index2.html)
 }
 
